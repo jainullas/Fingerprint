@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FingerprintSample</string>
+    <string name="result_type_error">ERROR</string>
+    <string name="result_type_help">HELP</string>
+    <string name="mode_of_auth_fingerprint">Fingerprint</string>
+    <string name="mode_of_auth_error">Error</string>
+    <string name="empty_password">Password is empty</string>
+    <string name="enter_password">Enter password</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+</resources>
